@@ -4,7 +4,7 @@
 I'm a Computer Science student and a Data Engineer Intern @ TeamSystem. I'm creative person who enjoys exploring different forms of art, including cinema and theatre. I'm passionate about technology and love to work on innovative projects that challenge me.
 
 ## Education
-🎓 Bachelor's Degree in Engineering and Computer Science, University of Bologna, 2023
+🎓 Bachelor's Degree in Engineering and Computer Science, University of Bologna, 2024
 
 ## My Interests
 🤖 **Artificial Intelligence**: I'm passionate about exploring the potential of AI and its impact on society.<br>
