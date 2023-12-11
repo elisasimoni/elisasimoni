@@ -13,8 +13,8 @@ I'm a Computer Science student and a Data Engineer Intern @ TeamSystem. I'm crea
 🎭 **Theatre**: I enjoy watching plays and attending live performances.<br>
 
 ## My Skills
-💻 **Programming**: I have experience in various programming languages, including Python, and Kotlin. I'm also proficient in HTML and CSS.<br>
-🧰 **Technical Skills**: I'm skilled in using tools such as Microsoft Office, Visual Studio Code, and GitHub.<br>
+💻 **Programming**: I have experience in various programming languages, including Python, Kotlin, Dart. I'm also proficient in HTML and CSS.<br>
+🧰 **Technical Skills**: I'm skilled in using tools such as PyCharm, Visual Studio Code, Git, Flutter, Grafana, Postman. .<br>
 🎨 **Creativity**: I love to think outside the box and come up with innovative solutions to problems.<br>
 
 ## How to Reach Me
