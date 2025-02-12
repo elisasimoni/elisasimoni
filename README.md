@@ -1,24 +1,25 @@
-# Hi there, I'm Elisa Simoni 👋
+Hi there, I'm Elisa Simoni 👋
+About Me
+I'm a Computer Science graduate and an AI Engineer with a strong passion for technology, innovation, and creativity. I enjoy exploring different forms of art, including cinema and theatre, and I'm always eager to take on new challenges in the field of artificial intelligence.
 
-## About Me
-I'm a Computer Science student and a Data Engineer @ TeamSystem. I'm creative person who enjoys exploring different forms of art, including cinema and theatre. I'm passionate about technology and love to work on innovative projects that challenge me.
-
-## Education
+Education
 🎓 Bachelor's Degree in Engineering and Computer Science, University of Bologna, 2024
+📚 Master in Artificial Intelligence and Management, Rome Business School, 2025
 
-## My Interests
-🤖 **Artificial Intelligence**: I'm passionate about exploring the potential of AI and its impact on society.<br>
-🕶️ **Virtual and Augmented Reality**: I'm fascinated by the possibilities of VR and AR and their potential to revolutionize the way we interact with technology.<br>
-🎬 **Cinema**: I love watching movies and analyzing their plot and cinematography.<br>
-🎭 **Theatre**: I enjoy watching plays and attending live performances.<br>
+My Interests
+🤖 Artificial Intelligence: Passionate about AI and its transformative impact on society.
+🕶️ Virtual and Augmented Reality: Fascinated by VR/AR and their potential to reshape human-computer interactions.
+🎬 Cinema: Enthusiastic about movies, cinematography, and storytelling.
+🎭 Theatre: Love attending live performances and exploring the world of drama.
 
-## My Skills
-💻 **Programming**: I have experience in various programming languages, including Python, Kotlin, Dart. I'm also proficient in HTML and CSS.<br>
-🧰 **Technical Skills**: I'm skilled in using tools such as PyCharm, Visual Studio Code, Git, Flutter, Grafana, Postman. .<br>
-🎨 **Creativity**: I love to think outside the box and come up with innovative solutions to problems.<br>
+My Skills
+💻 Programming: Proficient in Python, Kotlin, Dart, HTML, and CSS.
+🧰 Technical Skills: Experience with PyCharm, Visual Studio Code, Git, Flutter, Grafana, and Postman.
+⚙️ AI & ML Engineering: Knowledge in Machine Learning Engineering, MLOps, and AI model deployment.
+🎨 Creativity & Innovation: Passionate about problem-solving and thinking outside the box.
 
-## How to Reach Me
-If you have any questions or want to connect, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/elisa-simoni00/) or [Email me](mailto:simoni.elisa00@gmail.com)
-.<br>
+How to Reach Me
+📩 Email me
+🔗 LinkedIn
 
 Thanks for stopping by! 😊
