@@ -93,13 +93,12 @@ to create AI experiences that actually feel smart and useful.
 ## 📊 GitHub Vibes
 
 <p align="center">
-  <!-- Sostituisci YOUR_GITHUB_USERNAME con il tuo username reale -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=elisasimoni&show_icons=true&theme=tokyonight&hide_title=false&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisasimoni&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=elisasimoni&theme=tokyonight" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elisasimoni&theme=tokyonight" />
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=elisasimoni&theme=tokyonight&hide_border=true" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elisasimoni&theme=tokyonight" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elisasimoni&theme=tokyonight" />
 </p>
 
 ---
