@@ -1,8 +1,6 @@
 <!-- PROFILE HEADER -->
 
-# 👋 HI THERE! 
-
-
+# 👋 Hi, I'm Elisa
 
 <p align="center">
   <a href="mailto:simoni.elisa00@gmail.com">
@@ -19,15 +17,12 @@
 
 ## ✨ About Me
 
-Hey, I’m **Elisa** — an **AI Engineer** with a background in **Engineering & Computer Science** and an **International Master in AI & Management**.  
-I love building **LLM-powered systems**, orchestrating agents, and shipping real features to production.
+I'm an **AI Engineer** focused on taking enterprise AI from business requirement to **production**, not just to a demo.
+I work at the intersection of **LLM engineering**, **platform engineering** and **delivery**: agentic systems, MCP integrations into enterprise systems, Kubernetes deployments and end-to-end observability.
 
-I mix:
-- 🧠 **AI engineering** – LLMs, orchestration, MLOps  
-- 🛠 **Solid infra/devops** – Kubernetes, Docker, ArgoCD, GitLab CI  
-- 🎬 **Storytelling & creativity** – cinema, theatre, design mindset  
+My approach is deliberately **model-agnostic**: I pick foundation models based on business goal, cost, latency, output quality and data-security constraints, rather than tying the architecture to a single provider.
 
-to create AI experiences that actually feel smart and useful.
+Background: Bachelor's in **Engineering & Computer Science** (University of Bologna) and an **International Master in AI & Management** (Rome Business School).
 
 ---
 
@@ -45,28 +40,26 @@ to create AI experiences that actually feel smart and useful.
   <img src="https://skillicons.dev/icons?i=fastapi,flutter" />
 </p>
 
+### 🤖 AI & Agents
+
+- Agent orchestration: **Agno**, **LangChain**, agent-based architectures
+- **MCP (Model Context Protocol)** servers with **FastMCP**, exposing enterprise systems as agent tools
+- Multi-provider LLM routing with **LiteLLM**: Anthropic, Azure OpenAI, Vertex AI / Gemini
+- RAG, embeddings, vector search, vision / multimodal models
+- Prompt lifecycle management, agent evaluation and quality monitoring
+
 ### ☁️ Cloud, DevOps & Infra
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,linux,git,gitlab" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,gcp,linux,git,gitlab" />
 </p>
 
-- Kubernetes (deployments, sidecars, namespaces, kustomize overlays)  
-- Docker (multi-stage builds, image optimization)  
-- ArgoCD & GitOps workflows  
-- GitLab CI/CD (pipelines, templates, caching, artifacts)  
-- Secrets & config: Azure Key Vault, env-based configs  
-- Observability: HELK, Grafana, logs & metrics
-
-### 🤖 AI & Generative AI
-
-- LLM integration: OpenAI, Azure OpenAI, Gemini, ecc.  
-- **Prompt engineering & system design**  
-- RAG, embeddings, vector search  
-- LangChain, LiteLLM, MCP (Model Context Protocol)  
-- Vision / multimodal models  
-- Agent-based architectures & task orchestration  
-- Evaluation pipelines & quality monitoring
+- Kubernetes (deployments, sidecars, namespaces, kustomize overlays)
+- Docker (multi-stage builds, image optimization)
+- Argo CD & GitOps workflows, GitLab CI/CD
+- Load & performance testing with **k6**, integrated into the delivery pipeline
+- Observability: traces, metrics, logs, token & cost tracking (Grafana, HELK)
+- Secrets & config: Azure Key Vault, env-based configs
 
 ### 🔧 Developer Toolkit
 
@@ -74,19 +67,19 @@ to create AI experiences that actually feel smart and useful.
   <img src="https://skillicons.dev/icons?i=pycharm,vscode,postman" />
 </p>
 
-- PyCharm • VS Code • Postman  
-- Git / GitLab  
-- Figma (per concept UI/UX)  
-- Jira • Confluence  
+- PyCharm • VS Code • Postman
+- Git / GitLab
+- Figma (UI/UX concepts)
+- Jira • Confluence
 
 ---
 
-## 🔭 What I’m Into
+## 🔭 What I'm Into
 
-- 🤖 **AI in production** – non solo PoC, ma sistemi vivi con logging, metrics & monitoring  
-- 🕶 **VR/AR** – nuovi modi di interagire con il digitale  
-- 🎬 **Cinema & storytelling** – perché anche il codice racconta qualcosa  
-- 🎭 **Theatre** – energia live, empatia, creatività  
+- 🤖 **AI in production**: not just PoCs, but living systems with logging, metrics and monitoring
+- 🕶 **VR/AR**: new ways to interact with the digital world
+- 🎬 **Cinema & storytelling**: because code tells a story too
+- 🎭 **Theatre**: live energy, empathy, creativity
 
 ---
 
@@ -103,9 +96,9 @@ to create AI experiences that actually feel smart and useful.
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
-- 📩 **Email:** [simoni.elisa00@gmail.com](mailto:simoni.elisa00@gmail.com)  
-- 🔗 **LinkedIn:** [linkedin.com/in/elisa-simoni00](https://www.linkedin.com/in/elisa-simoni00/)  
+- 📩 **Email:** [simoni.elisa00@gmail.com](mailto:simoni.elisa00@gmail.com)
+- 🔗 **LinkedIn:** [linkedin.com/in/elisa-simoni00](https://www.linkedin.com/in/elisa-simoni00/)
 
 > _Always down to talk AI, infra, wild ideas and side projects._ 🚀
